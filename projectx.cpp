@@ -1,7 +1,2 @@
 #include <iostream>
-#include <cstdlib> // для system
-using namespace std;
-
-int main() ;
-{ asdfasdfsdf}
-   
+#include <cst
